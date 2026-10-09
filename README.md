@@ -1,2 +1,5 @@
 # ITClass10A-Example
-Whatever
+This is the first section of our Readme.md
+
+# My Details
+
